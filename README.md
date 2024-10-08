@@ -8,7 +8,7 @@
 
 ⚪ Todos os meus projetos estão disponíveis no GitHub [GuiBarao](https://github.com/GuiBarao) 🐱‍💻
 
-⚪ Perfil no **linkedin** disponível em [Guilherme Barão](www.linkedin.com/in/guilherme-barão-a128b086) 🌐
+⚪ Perfil no **linkedin** disponível em [Guilherme Barão](https://www.linkedin.com/in/guilherme-bar%C3%A3o-a128b086/) 🌐
 
 ⚪ **Hobbies**: Conteúdo da bolha nerd, jogos online, ficção científica. 🖖🎮
 
